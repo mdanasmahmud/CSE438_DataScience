@@ -3,7 +3,7 @@ https://youtube.com/.....
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/you/CSE123/blob/main/submission3/Concept%20Map.pdf
+https://github.com/mdanasmahmud/CSE438_DataScience/blob/main/Submission%203/CSE438_Team_11_Concept%20Map.pdf
 Native/original format: 
 https://www.canva.com/design/DAFqhPGMECw/Fbx2dzUHsMbdnKXsoozDJg/edit?utm_content=DAFqhPGMECw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
