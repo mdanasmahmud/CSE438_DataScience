@@ -7,9 +7,6 @@ http://youtube....
 Paper title:
 Diabetic Retinopathy Stage Detection using EfficientNet5 and SHAP
 
-Paper presentation (anyone can view without login):
-http://slides.google.com/
-
 Group Number:
 11
 
