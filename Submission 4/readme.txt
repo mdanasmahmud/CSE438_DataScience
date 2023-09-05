@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/xzyfdhzkdvbp
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/H7o7IawY25M
 
 Paper title:
 Diabetic Retinopathy Stage Detection using EfficientNet5 and SHAP
