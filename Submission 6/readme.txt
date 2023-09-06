@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/xzyfdhzkdvbp
 
 Unlisted YouTube video:
-https://youtu.be/EeUb_riqOiM
+https://youtu.be/uRvi5klTvHA
 
 Paper title:
 Diabetic Retinopathy Stage Detection using Ensemble EfficientNetV3B3 and NasNetMobile
